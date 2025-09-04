@@ -1,0 +1,18 @@
+.header{
+    font-style:Roboto;
+    background:#1F2937;
+    display:flex;
+}
+.navbar{
+    display:flex;
+}
+.navbar ul{
+    list-style-type: none;
+    justify-content: space-between;
+    
+}
+ul li{
+    justify-content:space-between;
+    display:block;
+    flex:auto;
+}
